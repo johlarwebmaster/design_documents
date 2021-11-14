@@ -3,7 +3,9 @@ Overview
     This process will include
     - Charging the Customer with a new card, or one previously Saved
     - Store Changes in Firebase
-    - Charging Seller
+    - Charging Seller Fee
+    
+
 
 
 Concerns
